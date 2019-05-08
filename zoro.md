@@ -1,6 +1,6 @@
 ## Zoro界面简介
 
-在 Zoro 界面，通过划词来标注内容![image-20190430174539095](/Users/lixin/Desktop/image-20190430174539095.png)
+在 Zoro 界面，通过划词来标注内容![](https://github.com/Leosean/my/blob/master/img/image-20190430174539095.png)
 
 
 
@@ -8,15 +8,15 @@
 
 界面中间：显示当前的标注文章。
 
-- 上部分：状态栏，表明当前标注任务的类型（主流车系动力标注0410）。可以点击标注指南查看。![image-20190430175159728](/Users/lixin/Documents/Typora/%E5%9B%BE%E7%89%87/image-20190430175159728.png)
+- 上部分：状态栏，表明当前标注任务的类型（主流车系动力标注0410）。可以点击标注指南查看。![](https://github.com/Leosean/my/blob/master/img/image-20190430175159728.png)
 
-- 中上部分：文章分组区，可以对当前文章进行分组。![image-20190430175216779](/Users/lixin/Desktop/image-20190430175216779.png)
+- 中上部分：文章分组区，可以对当前文章进行分组。![](https://github.com/Leosean/my/blob/master/img/image-20190430175216779.png)
 
 - 中下部分：文章标注区，具体标注任务在此进行。**黑色段落是可标注段落。**
 
-  ![image-20190430175501630](/Users/lixin/Desktop/image-20190430175501630.png)
+  ![](https://github.com/Leosean/my/blob/master/img/image-20190430175501630.png)
 
-  - 标注方法：鼠标划词后，![image-20190430180830422](/Users/lixin/Desktop/image-20190430180830422.png)系统自动显示"待选标注菜单"，标注员输入词语所属的Slot，选择slot，点击确定。![image-20190430181121488](/Users/lixin/Desktop/image-20190430181121488.png)
+  - 标注方法：鼠标划词后，![](https://github.com/Leosean/my/blob/master/img/image-20190430180830422.png)系统自动显示"待选标注菜单"，标注员输入词语所属的Slot，选择slot，点击确定。![](https://github.com/Leosean/my/blob/master/img/image-20190430181121488.png)
 
   
 
@@ -25,7 +25,7 @@
 - 不标注：文章不含有价值信息，不需要标注时，可点击不标注跳过。
 - 提交：所有标注完成后，可点击提交进入下一篇。
 
-![image-20190430181429369](/Users/lixin/Desktop/image-20190430181429369.png)
+![](https://github.com/Leosean/my/blob/master/img/image-20190430181429369.png)
 
 
 
@@ -33,8 +33,8 @@
 
 ## 标注目的 
 
-1. 我标注的数据，跟老司机什么关系？ ![image-20190430103926988](/Users/lixin/Documents/Typora/图片/标注指南/image-20190430103926988.png)
-2. 标注的数据，![image-20190430104031329](/Users/lixin/Documents/Typora/图片/标注指南/image-20190430104031329.png)目前只标注事实 
+1. 我标注的数据，跟老司机什么关系？ ![image-20190430103926988](https://github.com/Leosean/my/blob/master/img/image-20190430103926988.png)
+2. 标注的数据，![image-20190430104031329](https://github.com/Leosean/my/blob/master/img/image-20190430104031329.png)目前只标注事实 
 
 
 
@@ -56,7 +56,7 @@
 
    例：
 
-   ![image-20190430104239875](/Users/lixin/Documents/Typora/图片/标注指南/image-20190430104239875.png)
+   ![image-20190430104239875](https://github.com/Leosean/my/blob/master/img/image-20190430104239875.png)
 
 2. 具体分组方法见分组指南
 
@@ -65,11 +65,11 @@
 ### 2. 实体（需要了解实体含义的目的是什么）标注内容是一个个实体？
 
 1. 实体是类的实例，类（class）是自定义类型。例如" class_name brand ”这个类的实体是"品牌"
-   - 现阶段实体分为：品牌、厂商、车系、车型![image-20190430113146156](/Users/lixin/Documents/Typora/图片/标注指南/image-20190430113146156.png)
+   - 现阶段实体分为：品牌、厂商、车系、车型![image-20190430113146156](https://github.com/Leosean/my/blob/master/img/image-20190430113146156.png)
 2. 实体的属性包括
    1. 实体属性：data_type 为类
    2. 基本属性：data_type 为基本类型（string、float、int、bool）
-3. 这个什么意思？![image-20190430110510278](/Users/lixin/Documents/Typora/图片/标注指南/image-20190430110510278.png)
+3. 这个什么意思？![image-20190430110510278](https://github.com/Leosean/my/blob/master/img/image-20190430110510278.png)
 4. 针对实体，要标注到最小粒度，即基本属性
 
 
@@ -91,11 +91,11 @@
 
     不标注内容：科技感，它是推理结论
 
-  - 只有这3个吗？![image-20190430112258201](/Users/lixin/Documents/Typora/图片/image-20190430112258201.png)
+  - 只有这3个吗？![image-20190430112258201](https://github.com/Leosean/my/blob/master/img/image-20190430112258201.png)
 
   - 猜测、不确定需不需要标注？
 
-- 文章是否要标注的评价标准？![image-20190430113254010](/Users/lixin/Documents/Typora/图片/image-20190430113254010.png)
+- 文章是否要标注的评价标准？![image-20190430113254010](https://github.com/Leosean/my/blob/master/img/image-20190430113254010.png)
 
   - 不存在事实的段落，不标注
   - 车系无法判断，不标注，因为**没价值**
@@ -133,7 +133,7 @@
     - 如果未来即将发布，但车系库中不存在，可自定义
     - 如果是车系后加字母（例Q70L），去掉字母后分组。例，Q70L车系分组为Q70。
 
-  - 进口：车系中有进口选项，且文中明确指出"海外版"、"进口车型"，可选择进口![image-20190430115900508](/Users/lixin/Documents/Typora/图片/标注指南/image-20190430115900508.png)
+  - 进口：车系中有进口选项，且文中明确指出"海外版"、"进口车型"，可选择进口![image-20190430115900508](https://github.com/Leosean/my/blob/master/img/image-20190430115900508.png)
 
   - 新能源：
 
@@ -160,13 +160,13 @@
 - 某车型的年代款，以上市时间为准。
 - 没有上市时间
   - 文章说明是现款的，指 2018年
-  - 没有任何时间描述，以文章发布时间为准![image-20190430132629581](/Users/lixin/Documents/Typora/图片/标注指南/image-20190430132629581.png)
+  - 没有任何时间描述，以文章发布时间为准![image-20190430132629581](https://github.com/Leosean/my/blob/master/img/image-20190430132629581.png)
 
 
 
 ### 车型
 
-- 文中如果存在车型库中的字段（例，高配、低配、高功率、低功率），按车型库分组，多个车型要分多组![image-20190430133825831](/Users/lixin/Documents/Typora/图片/标注指南/image-20190430133825831.png)
+- 文中如果存在车型库中的字段（例，高配、低配、高功率、低功率），按车型库分组，多个车型要分多组![image-20190430133825831](https://github.com/Leosean/my/blob/master/img/image-20190430133825831.png)
 
 - 文中没有车型库中的字段
 
@@ -186,7 +186,7 @@
 
     - 例
 
-    ![image-20190430104522645](/Users/lixin/Documents/Typora/图片/标注指南/image-20190430104522645.png)
+    ![image-20190430104522645](https://github.com/Leosean/my/blob/master/img/image-20190430104522645.png)
 
     - 此段车型分组为：`UX 200`、`UX 260h`、 `UX 260h 四驱版本`
 
@@ -265,15 +265,15 @@
 
 ### 动力
 
-！！！如果两个版本（新车和普通版），且提供两款发动机以及高低调校，但没有具体功率、扭矩信息（其他新闻有），如何分组。![image-20190506133422011](/Users/lixin/Documents/Typora/%E5%9B%BE%E7%89%87/image-20190506133422011.png)
+！！！如果两个版本（新车和普通版），且提供两款发动机以及高低调校，但没有具体功率、扭矩信息（其他新闻有），如何分组。![image-20190506133422011](https://github.com/Leosean/my/blob/master/img/image-20190506133422011.png)
 
 ！！！ 文中出现车系，车型（UX260h），标注吗？车型两个字需要划吗？文中出现品牌名呢？如果划了，后面可能也会出线具体车型名（四驱版），一个分组中能同时存在两个车型名称吗？
 
-！！！文中前面出现了3.0T发动机，后面也有对应的排量等信息，两个都要标注吗？![image-20190506171217082](/Users/lixin/Documents/Typora/图片/image-20190506171217082.png)
+！！！文中前面出现了3.0T发动机，后面也有对应的排量等信息，两个都要标注吗？![image-20190506171217082](https://github.com/Leosean/my/blob/master/img/image-20190506171217082.png)
 
-！！！油电混合前面的数值要不要划![image-20190506172017540](/Users/lixin/Documents/Typora/图片/image-20190506172017540.png)
+！！！油电混合前面的数值要不要划![image-20190506172017540](https://github.com/Leosean/my/blob/master/img/image-20190506172017540.png)
 
-！！！车型问题宝马两款组合介绍的车型怎么划？![image-20190506173204462](/Users/lixin/Documents/Typora/图片/image-20190506173204462.png)
+！！！车型问题宝马两款组合介绍的车型怎么划？![image-20190506173204462](https://github.com/Leosean/my/blob/master/img/image-20190506173204462.png)
 
 ！！！两款发动机，都标了T，传给机器学习有什么意义？它如何分辨哪个是哪个，如果是给机器学习的数据，要标注数据的意义
 
@@ -314,5 +314,5 @@
 
 文中出现多个名称（例，三厢版···高功率···插电混动），按车型优先级判断车型。
 
-- 优先级：![image-20190430134611700](/Users/lixin/Documents/Typora/图片/image-20190430134611700.png)
+- 优先级：![image-20190430134611700](https://github.com/Leosean/my/blob/master/img/image-20190430134611700.png)
 
